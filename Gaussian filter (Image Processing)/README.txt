@@ -1,0 +1,1 @@
+A program that takes an image an process it using a Gaussian filter.
